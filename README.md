@@ -33,7 +33,7 @@ divididos pelo ano da pesquisa
 
 # Dashboard Data-studio:
 <div style="display: inline_block">
-  <img align="center" alt="Data-studio" height="600" width="800" src="https://github.com/guisantos13/campanha_marketing_pandas_pyspark/blob/daf45bd8f2b2080dd2c831a0654fb3c9a826db50/Campn-1.png">
+  <img align="center" alt="Data-studio" height="600" width="800" src="https://github.com/guisantos13/estilo_de_vida_populacional/blob/master/Captura%20de%20tela%20de%202022-04-28%2021-21-55.png">
 </div>
 
 <div style="display: inline_block"><br>
