@@ -23,13 +23,14 @@ divididos pelo ano da pesquisa
 ### Entender qual o perfil do brasileiro:
 * Qual o IDHM do Brasil? Quais os índices de desigualdade entre municípios de regiões diferentes do Brasil? 
 * Quais os estados com os maiores IDHM? 
+* Existe desigualdade com relação ao IDHM Brancos X IDHM Negros ?
 * Qual a renda média per capita dos brasileiros nos últimos anos? 
 * Houve crescimento populacional no Brasil? 
 * Quais os percentuais das populações rural versus urbana? 
 * Quais os índices de escolaridade da população adulta? 
 * Existe relação entre o índice de escolaridade e taxa desocupados?
 * Quais as taxas de desocupação entre pessoas de 10 anos ou mais de idade?
-*
+
 
 # Dashboard Data-studio:
 <div style="display: inline_block">
@@ -37,7 +38,12 @@ divididos pelo ano da pesquisa
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Data-studio" height="600" width="800" src="https://github.com/guisantos13/campanha_marketing_pandas_pyspark/blob/daf45bd8f2b2080dd2c831a0654fb3c9a826db50/Campn-2.png">
+  <img align="center" alt="Data-studio" height="600" width="800" src="https://github.com/guisantos13/estilo_de_vida_populacional/blob/master/Captura%20de%20tela%20de%202022-04-28%2021-22-34.png">
+</div>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Data-studio" height="600" width="800" src="https://github.com/guisantos13/estilo_de_vida_populacional/blob/master/Captura%20de%20tela%20de%202022-04-28%2021-23-00.png">
 </div>
 
 
